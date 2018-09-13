@@ -128,15 +128,6 @@ j2cache-caffeine.properties 一级缓存
 
 
 
-**如何交流、反馈、参与贡献？** 
-- 开发文档：https://gitee.com/xcOschina/freeter-admin.git
-- 官方免费QQ群：806251058<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=4469c242246546fbe5548083e31b154f5f27df10c777c9ace61b094fbf7d922f"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="飞特开源技术交流" title="飞特开源技术交流"></a>
-- gitee仓库：https://gitee.com/xcOschina/freeter-admin.git
-- github仓库：暂不考虑，支持国产
-- 如需关注项目最新动态，请Watch、Star项目，同时也是对项目最好的支持
-- 技术讨论、二次开发等咨询、问题和建议，请移步到官方免费QQ群，我会在第一时间进行解答和回复！
-- 微信扫码并关注【飞特开源】，获得项目最新动态及更新提醒，暂未开放<br>
-- 点击链接加入群聊【飞特开源技术交流】：https://jq.qq.com/?_wv=1027&k=5DJ0G9i
 
 <br>
 <br>
