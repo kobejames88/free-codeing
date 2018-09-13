@@ -1,0 +1,24 @@
+package com.cnadmart.modules.user.entity.view;
+
+import com.cnadmart.modules.user.entity.UserEntity;
+
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+ 
+import java.io.Serializable;
+ 
+
+/**
+ * 用户表
+ * 
+ * @author xuchen
+ * @email 171998110@qq.com
+ * @date 2018-05-15 14:48:24
+ */
+@TableName("cn_user")
+@ApiModel(value = "cn_user")
+public class UserView  extends UserEntity implements Serializable {
+	private static final long serialVersionUID = 1L;
+
+ 
+}
